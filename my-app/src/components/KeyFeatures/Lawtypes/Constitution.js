@@ -1,7 +1,7 @@
 const Constitution = () => {
     return ( 
        <>
-        <div>
+        <div class="faq" style={{marginRight:"60px"}}>
         Constitutional and administrative law
 Main article: Indian constitutional law
 The Constitution of India, which came into effect on 26 January 1950 is the lengthiest written constitution in the world.[21] Although its administrative provisions are to a large extent based on the Government of India Act 1935, it also contains various other provisions that were drawn from other constitutions in the world at the time of its creation.[21] It provides details of the administration of both the Union and the States, and codifies the relations between the Federal Government and the State Governments.[22] Also incorporated into the text are a chapter on the fundamental rights of citizens, as well as a chapter on directive principles of state policy.[23]

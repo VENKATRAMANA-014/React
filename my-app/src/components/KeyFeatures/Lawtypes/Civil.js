@@ -1,7 +1,7 @@
 const Civil = () => {
     return ( 
         <>
-         <div>
+         <div class="faq" style={{marginRight:"60px"}} >
           <details >
             <summary>Whether an Indian citizen partner is required for a foreigner or Foreign Company to start a business in India?</summary>
             <div class="faq__content">

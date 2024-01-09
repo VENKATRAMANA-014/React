@@ -22,6 +22,7 @@ import FAQ from './components/FAQs/FAQ';
 import Login from './components/Register/Login';
 import Signin from './components/Register/Signin';
 import Float from './components/FloatButton/Float';
+import LegalAdvice from './components/KeyFeatures/LegalAdvice';
 
 function App() {
   return (
@@ -38,20 +39,21 @@ function App() {
           <Route path='/chatbot' element={ <MyChatbot/> }/>
           <Route path='/KeyFeatures' element={<KeyFeatures/>}></Route>
           <Route path='/KeyFeatures/LawTypes' element={ <LawTypes/>}/>
-          <Route path='/Lawtypes/constitution' element={ <Constitution/>}/>
-          <Route path='/Lawtypes/civil' element={ <Civil/>}/>
-          <Route path='/Lawtypes/corporate' element={ <Corporate/>}/>
-          <Route path='/Lawtypes/criminal' element={ <Criminal/>}/>
-          <Route path='/Lawtypes/cyber' element={ <Cyber/>}/>
-          <Route path='/Lawtypes/environment' element={ <Environmental/>}/>
-          <Route path='/Lawtypes/family' element={ <Family/>}/>
-          <Route path='/Lawtypes/intellectual' element={ <Intellectual/>}/>
-          <Route path='/Lawtypes/labor' element={ <Labor/>}/>
-          <Route path='/Lawtypes/tax' element={ <Tax/>}/>
+          <Route path='/constitution' element={ <Constitution/>}/>
+          <Route path='/civil' element={ <Civil/>}/>
+          <Route path='/corporate' element={ <Corporate/>}/>
+          <Route path='/criminal' element={ <Criminal/>}/>
+          <Route path='/cyber' element={ <Cyber/>}/>
+          <Route path='/environment' element={ <Environmental/>}/>
+          <Route path='/family' element={ <Family/>}/>
+          <Route path='/intellectual' element={ <Intellectual/>}/>
+          <Route path='/labor' element={ <Labor/>}/>
+          <Route path='/tax' element={ <Tax/>}/>
           <Route path='/FAQs' element={<FAQ/>}/>
           <Route path='/signin' element={<Signin/>}/>
           <Route path='/login' element={<Login/>}/>
           <Route path='/bot' element={<Float/>}/>
+          <Route path='/legaladvice' element={<LegalAdvice/>}/>
          
 
       </Routes>

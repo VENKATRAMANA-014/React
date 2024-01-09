@@ -1,7 +1,7 @@
 const Criminal = () => {
     return ( 
         <>
-        <div>
+        <div class="faq" style={{marginRight:"60px"}}>
         Criminal law
 Main article: Indian criminal law
 The Indian Penal Code formulated by the British during the British Raj in 1860, forms the backbone of criminal law in India. The Code of Criminal Procedure, 1973 governs the procedural aspects of the criminal law.[29]

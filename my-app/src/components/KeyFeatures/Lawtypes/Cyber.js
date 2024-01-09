@@ -1,9 +1,7 @@
 const Cyber = () => {
     return ( 
         <>
-        <div>
-            udjfgh
-        </div>
+        
         <div>
           <details >
             <summary>Whether an Indian citizen partner is required for a foreigner or Foreign Company to start a business in India?</summary>

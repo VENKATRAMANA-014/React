@@ -16,6 +16,7 @@ With a focus on legal consultation, document drafting, contract review, and lega
 <h6>Categories</h6>
 <ul class="footer-links ">
 <Link to="./KeyFeatures/LawTypes"><li>Lawtypes</li></Link>
+<Link to="./chatbot"><li>Legal Assistant</li></Link>
 {/* <li><a href="#">UI Design</a></li>
 <li><a href="#">Web Development</a></li>
 <li><a href="#">Video Editor</a></li>
@@ -52,10 +53,10 @@ With a focus on legal consultation, document drafting, contract review, and lega
 </div>
 <div class="col-md-4 col-sm-6 col-12">
 <ul class="social-icons">
-<li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
-<li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-<li><a class="dribbble" href="#"><i class="fab fa-dribbble"></i></a></li>
-<li><a class="linkedin" href="#"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a class="facebook" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+<li><a class="twitter" href="https://twitter.com/i/flow/login"><i class="fab fa-twitter"></i></a></li>
+<li><a class="dribbble" href="https://dribbble.com/session/new"><i class="fab fa-dribbble"></i></a></li>
+<li><a class="linkedin" href="https://www.linkedin.com/login"><i class="fab fa-linkedin-in"></i></a></li>
 </ul>
 </div>
 </div>
